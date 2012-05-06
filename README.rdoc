@@ -7,9 +7,11 @@
 
 == How to use
 
+  # -*- coding: utf-8 -*-
   require 'rubygems'
   require 'totsuzennoshi'
-  Totsuzennoshi.totsuzennoshi("突然の死")
+  puts Totsuzennoshi.totsuzennoshi("突然の死")
+  puts Totsuzennoshi.totsuzennoshi("その結果がこれだよ")
 
 .oO(なんて面倒な...)
 
