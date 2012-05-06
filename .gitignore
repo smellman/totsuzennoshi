@@ -28,16 +28,16 @@ pkg
 #
 # For MacOS:
 #
-#.DS_Store
+.DS_Store
 
 # For TextMate
-#*.tmproj
-#tmtags
+*.tmproj
+tmtags
 
 # For emacs:
-#*~
-#\#*
-#.\#*
+*~
+\#*
+.\#*
 
 # For vim:
 #*.swp
@@ -47,3 +47,7 @@ pkg
 
 # For rubinius:
 #*.rbc
+
+bundler/
+Gemfile.lock
+
