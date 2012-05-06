@@ -1,6 +1,23 @@
+# -*- coding: utf-8 -*-
 = totsuzennoshi
 
-Description goes here.
+ ＿人人 人人＿
+ ＞ 突然の死 ＜
+ ￣Y^Y^Y^Y^Y￣
+
+== How to use
+
+  require 'rubygems'
+  require 'totsuzennoshi'
+  Totsuzennoshi.totsuzennoshi("突然の死")
+
+.oO(なんて面倒な...)
+
+== TODO
+
+* たぶん日本語以外だとかっこわるいと思う
+* もっとマシな実装を目指したい
+* やる気
 
 == Contributing to totsuzennoshi
  
