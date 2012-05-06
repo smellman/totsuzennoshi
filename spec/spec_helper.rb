@@ -1,3 +1,10 @@
+if( ENV['COVERAGE'] == 'on' )
+  require 'simplecov'
+  SimpleCov.start do
+    add_filter 'bundler'
+  end
+end
+
 $LOAD_PATH.unshift(File.join(File.dirname(__FILE__), '..', 'lib'))
 $LOAD_PATH.unshift(File.dirname(__FILE__))
 require 'rspec'
