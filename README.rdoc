@@ -1,4 +1,3 @@
-# -*- coding: utf-8 -*-
 = totsuzennoshi
 
  ＿人人 人人＿
