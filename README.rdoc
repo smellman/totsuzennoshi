@@ -6,11 +6,27 @@
 
 == How to use
 
+install:
+
+  $ gem install totsuzennoshi
+
+sample code:
+
   # -*- coding: utf-8 -*-
   require 'rubygems'
   require 'totsuzennoshi'
   puts Totsuzennoshi.totsuzennoshi("突然の死")
   puts Totsuzennoshi.totsuzennoshi("その結果がこれだよ")
+
+result:
+
+  $ ruby sample_totsuzennoshi.rb
+  ＿人人 人人＿
+  ＞ 突然の死 ＜
+  ￣Y^Y^Y^Y^Y￣
+  ＿人人人人人 人人人人＿
+  ＞ その結果がこれだよ ＜
+  ￣Y^Y^Y^Y^Y^Y^Y^Y^Y^Y￣
 
 .oO(なんて面倒な...)
 
