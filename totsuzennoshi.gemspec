@@ -26,7 +26,8 @@ Gem::Specification.new do |s|
     "VERSION",
     "lib/totsuzennoshi.rb",
     "spec/spec_helper.rb",
-    "spec/totsuzennoshi_spec.rb"
+    "spec/totsuzennoshi_spec.rb",
+    "totsuzennoshi.gemspec"
   ]
   s.homepage = "http://github.com/smellman/totsuzennoshi"
   s.licenses = ["MIT"]
